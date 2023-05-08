@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cocktails-reactJS/static/css/main.be18b9c3.css",
+    "main.js": "/Cocktails-reactJS/static/js/main.30804075.js",
+    "static/media/logo.svg": "/Cocktails-reactJS/static/media/logo.5bb3b58efe44c44cee437fa462266c08.svg",
+    "index.html": "/Cocktails-reactJS/index.html",
+    "main.be18b9c3.css.map": "/Cocktails-reactJS/static/css/main.be18b9c3.css.map",
+    "main.30804075.js.map": "/Cocktails-reactJS/static/js/main.30804075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be18b9c3.css",
+    "static/js/main.30804075.js"
+  ]
+}
